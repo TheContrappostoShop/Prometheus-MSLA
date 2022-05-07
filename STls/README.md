@@ -1,1 +1,0 @@
-Place store all the STL files for a standard Prometheus MSLA configuration
