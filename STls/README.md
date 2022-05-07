@@ -1,1 +1,1 @@
-Folder to store all the STLS files for a standard Prometheus MSLA configuration
+Place store all the STL files for a standard Prometheus MSLA configuration
