@@ -1,0 +1,1 @@
+Folder to store all the STLS files for a standard Prometheus MSLA configuration
