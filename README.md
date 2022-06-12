@@ -2,7 +2,7 @@
   <h1>Prometheus-MSLA</h1>
 </div>
 
-![Prometheus MSLA Printer Render!](Images\Render\MainHeadRender.png "Open Source MSLA Printer Prometheus MSLA")
+![Prometheus MSLA Printer Render!](Images/Render/MainHeadRender.png "Open Source MSLA Printer Prometheus MSLA")
 
 
 In greek mythology there is a legend of a Titan named Prometheus, he is known for defying the gods by stealing fire and gifting it back to humanity. 
