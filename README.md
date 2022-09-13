@@ -11,7 +11,7 @@ Not only did he  give them fire Prometheus also taught the humans how to use the
 
 We created this project because we wanted to offer a machine that was accessible to everyone,we wanted it to be easily modified so that you can create and give your machine your own personal touch
 
-You can download an view the full assembly on Fusion 360 <a href="https://a360.co/3Kjxlld"> Prometheus Assembly</a>.
+You can download and view the full assembly on Fusion 360 <a href="https://a360.co/3Kjxlld"> Prometheus Assembly</a>.
 
 If you need want to share your experience or need more information, we are happy to welcome you to our  <a href="https://discord.gg/GFUn9gwRsj">Discord Server</a> and our <a href="https://www.youtube.com/channel/UCK4CNwWrmGPNEcdPrdDVOAA/playlists">Youtube channel</a>.
 
