@@ -22,16 +22,16 @@ The following playlist will guide you trough the build process of your Prometheu
 
 This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
 
-The Contrapposto Shop
+The Contrapposto Shop :
 Samuel (sam.boutin) and Melissa
 
-The CAD team
+The CAD team :
 Gil (rattus) and Shyam (eThing)
 
-Electronic and Software team
+Electronic and Software team :
 Paul (Paul_GD) and Ada (rawafire)
 
-The rest of the Prometheus MSLA team
+The rest of the Prometheus MSLA team :
 Kristine (Elantris) , Tyler, Stefan (Stuff!), Zakary, Zachary, Alain (Thewood3D)
 
 And thanks to all of those who help in a way or an other in this open source project !!
