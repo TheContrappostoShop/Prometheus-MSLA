@@ -105,8 +105,8 @@
 |                  | Vat Retainer Ring          | 1 ||
 |                  | Vat Handle                 | 2 ||
 
-** The Vat needs to be printed in PLA or PETG ! Other materials can react with the chemical in the resin
+** We recommend printing the vat in PLA or PETG! Other materials may react with the chemicals in the resin
 
-** The Structural parts like in the arm part need to be very rigid and stiff ! They can be printed in PLA,carbon fiber filled material or other stiff platic
+** The Structural parts (such as the arm) need to be very rigid and stiff! They can be printed in PLA, carbon fiber filled material, or other stiff plastic
 
-** All the parts is printed at 0.2mm with at least 35% infill and at least 6 walls ( .4 nozzle )
+** All the parts are printed at 0.2mm layer height, with at least 35% infill and at least 6 walls (.4 nozzle)
