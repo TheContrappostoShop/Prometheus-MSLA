@@ -22,7 +22,7 @@ your machine your own personal touch.
 The full Prometheus Assembly can be viewed or downloaded over on
 [Fusion 360](https://a360.co/3Kjxlld)!
 
-See [here](STL) for exported STLs of all of the printed parts. 
+See [here](STL) for exported STLs of all of the printed parts.
 
 Prometheus Board Files Coming Soon!
 
@@ -35,7 +35,7 @@ You can also find our configuration files
 software install.
 
 ### Documentation
-Finalized Build Guide Coming Soon! In the mean-time, check out our 
+Finalized Build Guide Coming Soon! In the mean-time, check out our
 [Youtube Assembly Guide](https://www.youtube.com/watch?v=eP9PegG7pnA&list=PL1cx7A6ZVoZlWrnPsP4_g7WrTk8wNiGpT),
 or join our Discord for advice and assitance!
 
@@ -58,5 +58,5 @@ This work is licensed under a <a rel="license" href="http://creativecommons.org/
 | Electronics and Software | Paul (Paul_GD) and Ada (ragwafire) |
 | The Rest of the Prometheus MSLA Team | Kristine (Elantris), Tyler, Stefan (Stuff!), Zakary, Zachary, Alain (Thewood3D) |
 
-And thanks to all of those who helped, in one way or an other, on this open 
+And thanks to all of those who helped, in one way or an other, on this open
 source project!!
