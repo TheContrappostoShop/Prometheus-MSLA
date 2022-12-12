@@ -20,11 +20,13 @@ your machine your own personal touch.
 
 ### CAD
 The full Prometheus Assembly can be viewed or downloaded over on
-[Fusion 360](https://a360.co/3Kjxlld)!
+[GrabCAD](https://grabcad.com/library/the-prometheus-msla-v1-full-assembly-1)!
 
-See [here](STL) for exported STLs of all of the printed parts.
+See [here](STL) for exported STLs of all of the printed parts, and
+[here](Drawings) for the exported DXF files for the enclosure and base plates.
 
-Prometheus Board Files Coming Soon!
+### Control Board
+Prometheus Apollo Board EDA & Production Files Coming Soon!
 
 ### Firmware
 For a fully configured Raspberry Pi image, check out
@@ -35,9 +37,11 @@ You can also find our configuration files
 software install.
 
 ### Documentation
-Finalized Build Guide Coming Soon! In the mean-time, check out our
+Finalized Build Guide Coming Soon!
+
+In the mean-time, check out our
 [Youtube Assembly Guide](https://www.youtube.com/watch?v=eP9PegG7pnA&list=PL1cx7A6ZVoZlWrnPsP4_g7WrTk8wNiGpT),
-or join our Discord for advice and assitance!
+or join our Discord for advice and assistance!
 
 ## Community
 If you want to share your experience or need more information, we are happy to
