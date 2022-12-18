@@ -46,7 +46,7 @@
 |             | DSI Touch Screen          | 1      | [Amazon](https://amzn.to/3M15Rjr)|
 |             | DSI Flex Cable            | 1      | [Amazon](https://amzn.to/3xArXWf)|
 |             | Raspberry pi 4B           | 1      | [RPi Locator](https://rpilocator.com/?cat=PI4)|
-|             | Prometheus MotherBoard    | 1      | Coming soon|
+|             | Prometheus Control Board  | 1      | [Contrapposto Shop](https://contrapposto.shop/products/the-prometheus-msla-motherboard-apollo)|
 |             | Prometheus LED array      | 1 | Coming soon|
 | \*Generic LED Alternative| LED array alternative     | 1 | [Aliexpress](https://www.aliexpress.com/item/1005004088672207.html)|
 |\*No Pi4 Alternative Controller| ChituSystems Board        | 1 | [Aliexpress](https://www.aliexpress.com/item/1005003612424196.html) |
