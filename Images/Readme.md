@@ -1,1 +1,0 @@
-Location for Visualizations and Images/Renders
