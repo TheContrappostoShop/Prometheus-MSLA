@@ -8,24 +8,24 @@
 |                    | M5 T-Nut          | 115 | [Amazon](https://amzn.to/3voWRi8) |
 |                    | M3 Insert         | 46  | [Amazon](https://amzn.to/381tYR5), [McMaster-Carr](https://www.mcmaster.com/94459A140/) |
 |                    | M4 Insert         | 5   | [Amazon](https://amzn.to/3vuExnA), [McMaster-Carr](https://www.mcmaster.com/94459A150/) |
-|                    | M3x8 HC           | 20  | [Amazon](https://amzn.to/3iJ74TD), [McMaster-Carr](https://www.mcmaster.com/91290A113/) |
-|                    | M3x10 HC          | 3   | [Amazon](https://amzn.to/3W0ydjq), [McMaster-Carr](https://www.mcmaster.com/91290A115/) |
-|                    | M3x18 HC          | 16  | [Amazon](https://amzn.to/3Y9s7Py), [McMaster-Carr](https://www.mcmaster.com/91290A121/) |
-|                    | M3x10 Countersunk | 40  | [Amazon](https://amzn.to/3Bpk8Eh), [McMaster-Carr](https://www.mcmaster.com/91294A130/) |
-|                    | M4x10 HC          | 12  | [Amazon](https://amzn.to/3iRvTwT), [McMaster-Carr](https://www.mcmaster.com/91290A144/) |
-|                    | M4x12 Self Tap    | 14  | [McMaster-Carr](https://www.mcmaster.com/99461A966/) |
+|                    | M3x8 SHC           | 20  | [Amazon](https://amzn.to/3iJ74TD), [McMaster-Carr](https://www.mcmaster.com/91290A113/) |
+|                    | M3x10 SHC          | 19   | [Amazon](https://amzn.to/3W0ydjq), [McMaster-Carr](https://www.mcmaster.com/91290A115/) |
+|                    | M3x18 SHC          | 16  | [Amazon](https://amzn.to/3Y9s7Py), [McMaster-Carr](https://www.mcmaster.com/91290A121/) |
+|                    | M3x10 Countersunk | 44  | [Amazon](https://amzn.to/3Bpk8Eh), [McMaster-Carr](https://www.mcmaster.com/91294A130/) |
+|                    | M4x10 SHC          | 26  | [Amazon](https://amzn.to/3iRvTwT), [McMaster-Carr](https://www.mcmaster.com/91290A144/) |
+|                    | M4x12 Self Tap    | 30  | [McMaster-Carr](https://www.mcmaster.com/99461A966/) |
 |                    | M4x24 Self Tap    | 15  | [McMaster-Carr](https://www.mcmaster.com/99461A972/) |
-|                    | M5x8 HC           | 112 | [Amazon](https://amzn.to/3W0BfEV), [McMaster-Carr](https://www.mcmaster.com/91290A222/) |
-|                    | M5x16 HC          | 35  | [Amazon](https://amzn.to/3uAQtV1), [McMaster-Carr](https://www.mcmaster.com/91290A232/) |
+|                    | M5x8 SHC           | 112 | [Amazon](https://amzn.to/3W0BfEV), [McMaster-Carr](https://www.mcmaster.com/91290A222/) |
+|                    | M5x16 SHC          | 35  | [Amazon](https://amzn.to/3uAQtV1), [McMaster-Carr](https://www.mcmaster.com/91290A232/) |
 |                    | M8x50 rod (or set screw)| 1   | [Amazon](https://amzn.to/3FizH1x), [McMaster-Carr](https://www.mcmaster.com/92015A151/) |
 |                    | M3 Nut            | 4   | [Amazon](https://amzn.to/3PisOlx), [McMaster-Carr](https://www.mcmaster.com/90592A085/) |
 |                    | M4 Nut            | 12  | [Amazon](https://amzn.to/3FApYUP), [McMaster-Carr](https://www.mcmaster.com/90592A090/) |
 |                    | M3 Washer         | 10  | [Amazon](https://amzn.to/3FePfU3), [McMaster-Carr](https://www.mcmaster.com/93475A210/) |
 |                    | M4 Washer         | 4   | [Amazon](https://amzn.to/3HwZ4iS), [McMaster-Carr](https://www.mcmaster.com/93475A230/) |
 |                    | M5 Washer         | 13  | [Amazon](https://amzn.to/3h75RW4), [McMaster-Carr](https://www.mcmaster.com/93475A240/) |
-| \*Ball Screw build | M4x16 HC          | 4   | [Amazon](https://amzn.to/3VQ3TIz), [McMaster-Carr](https://www.mcmaster.com/91290A154/) |
-| \*Ball Screw build | M5x35 HC          | 4   | [Amazon](https://amzn.to/3iPO9H0), [McMaster-Carr](https://www.mcmaster.com/91290A256/) |
-| \*Ball Screw build | M5x30 HC          | 4   | [Amazon](https://amzn.to/3YcJBue), [McMaster-Carr](https://www.mcmaster.com/91290A254/) |
+| \*Ball Screw build | M4x16 SHC          | 4   | [Amazon](https://amzn.to/3VQ3TIz), [McMaster-Carr](https://www.mcmaster.com/91290A154/) |
+| \*Ball Screw build | M5x35 SHC          | 4   | [Amazon](https://amzn.to/3iPO9H0), [McMaster-Carr](https://www.mcmaster.com/91290A256/) |
+| \*Ball Screw build | M5x30 SHC          | 4   | [Amazon](https://amzn.to/3YcJBue), [McMaster-Carr](https://www.mcmaster.com/91290A254/) |
 | \*Ball Screw build | M5 Nut            | 8   | [Amazon](https://amzn.to/3uAxBFu), [McMaster-Carr](https://www.mcmaster.com/90592A095/) |
 |||||
 | *_Motion_* |
