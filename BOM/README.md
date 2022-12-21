@@ -47,12 +47,13 @@
 |             | DSI Flex Cable            | 1      | [Amazon](https://amzn.to/3xArXWf)|
 |             | Raspberry pi 4B           | 1      | [RPi Locator](https://rpilocator.com/?cat=PI4)|
 |             | Prometheus Control Board  | 1      | [Contrapposto Shop](https://contrapposto.shop/products/the-prometheus-msla-motherboard-apollo)|
-|             | Prometheus LED array      | 1 | Coming soon|
+|             | Prometheus LED array      | 1 | [Contrapposto Shop](https://contrapposto.shop/products/led-array-330w-405nm-for-13-6-inch-display)|
 | \*Generic LED Alternative| LED array alternative     | 1 | [Aliexpress](https://www.aliexpress.com/item/1005004088672207.html)|
 |\*No Pi4 Alternative Controller| ChituSystems Board        | 1 | [Aliexpress](https://www.aliexpress.com/item/1005003612424196.html) |
 |\*No Pi4 Alternative Controller| ChituSystems Touch Screen | 1 | [Aliexpress](https://www.aliexpress.com/item/1005001862865136.html)|
 |||||
 | *_Frame_* |
+|                              | COMPLETE FRAME KIT (Blind joint)| 1  | [DLLPDF](https://www.dllpdf.com/prometheus-msla-structural-kit) |
 |                              | 2020 Aluminum Extrusion - 490mm | 2  | [Amazon](https://amzn.to/3xlxGzp) |
 |                              | 2020 Aluminum Extrusion - 450mm | 2  | [Amazon](https://amzn.to/3xhM6Ax) |
 |                              | 2020 Aluminum Extrusion - 412mm | 6  | [Amazon](https://amzn.to/3xhM6Ax) |
@@ -61,8 +62,8 @@
 |                              | 2020 Aluminum Extrusion - 705mm | 4  | [Amazon](https://amzn.to/3jmZhIf) |
 |                              | Hinges                | 2  | [Amazon](https://amzn.to/3jthnZ2) |
 | \*Can replace by blind joint | Hidden connector      | 36 | [Amazon](https://amzn.to/3Mbfa15) |
-| \*Can be hand made or locally source  | Base plate            | 1  ||
-| \*Can be hand made or locally sourced | Middle LCD plate      | 1  ||
+| \*Can be hand made or locally source  | Base plate            | 1  | [DLLPDF](https://www.dllpdf.com/prometheus-msla-base-plate) |
+| \*Can be hand made or locally sourced | Middle LCD plate      | 1  | [DLLPDF](https://www.dllpdf.com/prometheus-msla-mid-base) |
 |||||
 | *_Misc_* |
 |                        | Neodimium Magnet 18x3mm     | 2 | [Amazon](https://amzn.to/3aZIzxF)|
@@ -77,9 +78,10 @@
 |                        | 16 AWG cable		           |   | |
 |||||
 | *_Aluminum Parts_* |
-|                | Build Plate | 1 | Coming soon ||
-|                | Arm         | 1 | Coming soon ||
-|                | Rails Link  | 1 | Coming soon ||
+|                | COMPLETE FRAME KIT | 1 | [DLLPDF] (https://www.dllpdf.com/prometheus-msla-structural-kit) |
+|                | Build Plate | 1 | [DLLPDF](https://www.dllpdf.com/prometheus-msla-build-plate)|
+|                | Arm         | 1 | [DLLPDF](https://www.dllpdf.com/prometheus-msla-arm-support)|
+|                | Rails Link  | 1 | [DLLPDF](https://www.dllpdf.com/prometheus-msla-rails-link)|
 |||||
 | *_3D Printed Parts_* |
 |                  | Arm Plate Link             | 1 ||
