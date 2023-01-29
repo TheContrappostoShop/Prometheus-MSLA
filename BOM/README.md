@@ -30,7 +30,7 @@
 |||||
 | *_Motion_* |
 |                    | Nema 17 0.9deg    | 1   | [Amazon](https://amzn.to/3JTS9Ok) |
-|                    | Linear Rails MGN12H 400mm | 2 | [Amazon](https://amzn.to/3uSQrbX)|
+|                    | Linear Rails MGN12H 450mm | 2 | [Amazon](https://amzn.to/3uSQrbX)|
 |                    | Coupling 5mm to 8mm       | 1 | [Amazon](https://amzn.to/3xAs1Wk)|
 |                    | Bearing                   | 1 | [Amazon](https://amzn.to/37tBqo3)|
 | \*ACME build       | ACME T8 2mm lead 500mm    | 1 | [Amazon](https://amzn.to/3NEDFog) |
