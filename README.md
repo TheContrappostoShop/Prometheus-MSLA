@@ -5,6 +5,8 @@
 ![Prometheus MSLA Printer Render!](Images/Render/MainHeadRender.png "Open Source MSLA Printer Prometheus MSLA")
 [![Discord Link](https://discordapp.com/api/guilds/881628699500359731/widget.png?style=shield)](https://discord.gg/GFUn9gwRsj)
 
+The First fully open source MSLA 3D printer. The Prometheus MSLA is a large format printer with build volume of 298mm x 164mm x 350mm with a 13.7inch 7K monochrome display ( one of the largest and high resolution on the market ).
+
 In greek mythology there is a legend of a Titan named Prometheus, he is known
 for defying the gods by stealing fire and gifting it back to humanity.
 
