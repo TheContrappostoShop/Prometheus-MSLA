@@ -35,7 +35,8 @@
 |                    | Bearing                   | 1 | [Amazon](https://amzn.to/37tBqo3)|
 | \*ACME build       | ACME T8 2mm lead 500mm    | 1 | [Amazon](https://amzn.to/3NEDFog) |
 | \*ACME build       | ACME Nut 2mm lead         | 1 | [Spool3D](https://spool3d.ca/t8-lead-screw-anti-backlash-nut/) |
-| \*Ball Screw Build | Ball Screw 450mm 1204     | 1 | [Amazon](https://amzn.to/3Qx7Xuq)|
+| \*Ball Screw Build 450 | Ball Screw 450mm 1204     | 1 | [Amazon](https://amzn.to/3Qx7Xuq)|
+| \*Ball Screw Build 500 | Ball Screw 500mm 1204     | 1 | [Amazon](https://amzn.to/41ezOoz)|
 ||||
 | *_Electronics_* |
 |             | LCD 7K 13.6inch mono      | 1      | [Aliexpress](https://www.aliexpress.com/item/1005003829110324.html)|
