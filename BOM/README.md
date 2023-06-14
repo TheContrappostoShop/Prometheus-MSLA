@@ -29,7 +29,7 @@
 | \*Ball Screw build | M5 Nut            | 8   | [Amazon](https://amzn.to/3uAxBFu), [McMaster-Carr](https://www.mcmaster.com/90592A095/) |
 |||||
 | *_Motion_* |
-|                    | Nema 17 0.9deg    | 1   | [Amazon](https://amzn.to/3JTS9Ok) |
+|                    | Nema 17 *0.9deg* (Bigger is beter)| 1   | [Amazon](https://amzn.to/3JTS9Ok) | [Spool3D](https://spool3d.ca/nema17-0-9-degree-stepper-motor-60mm/)
 |                    | Linear Rails MGN12H 450mm | 2 | [Amazon](https://amzn.to/3uSQrbX)|
 |                    | Coupling 5mm to 8mm       | 1 | [Amazon](https://amzn.to/3xAs1Wk)|
 |                    | Bearing                   | 1 | [Amazon](https://amzn.to/37tBqo3)|
