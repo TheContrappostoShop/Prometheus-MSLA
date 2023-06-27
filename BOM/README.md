@@ -5,28 +5,29 @@
 |-----------|---------------|-----------|-------|
 | *_Fasteners_*          |                   |     |       |
 |                    | M3 T-Nut          | 18  | [Amazon](https://amzn.to/3jPTPxT) |
-|                    | M5 T-Nut          | 115 | [Amazon](https://amzn.to/3voWRi8) |
+|                    | M5 T-Nut          | 137 | [Amazon](https://amzn.to/3voWRi8) |
 |                    | M3 Insert         | 46  | [Amazon](https://amzn.to/381tYR5), [McMaster-Carr](https://www.mcmaster.com/94459A140/) |
 |                    | M4 Insert         | 5   | [Amazon](https://amzn.to/3vuExnA), [McMaster-Carr](https://www.mcmaster.com/94459A150/) |
-|                    | M3x8 SHC           | 20  | [McMaster-Carr](https://www.mcmaster.com/91290A113/) |
-|                    | M3x10 SHC          | 19   | [McMaster-Carr](https://www.mcmaster.com/91290A115/) |
-|                    | M3x18 SHC          | 16  | [McMaster-Carr](https://www.mcmaster.com/91290A121/) |
+|                    | M3x8 SHC           | 38  | [McMaster-Carr](https://www.mcmaster.com/91290A113/) |
+|                    | M3x10 SHC          | 5   | [McMaster-Carr](https://www.mcmaster.com/91290A115/) |
+|                    | M3x18 SHC          | 8  | [McMaster-Carr](https://www.mcmaster.com/91290A121/) |
+|                    | M3x20 Countersunk  | 4  |  |
+|                    | M3x25 SHC           | 14  |  |
 |                    | M3x10 Countersunk | 44  | [McMaster-Carr](https://www.mcmaster.com/91294A130/) |
-|                    | M4x10 SHC          | 26  | [McMaster-Carr](https://www.mcmaster.com/91290A144/) |
+|                    | M4x10 SHC          | 13  | [McMaster-Carr](https://www.mcmaster.com/91290A144/) |
 | \*DIY MDF Plates   | M4x12 Self Tap    | 30  | [McMaster-Carr](https://www.mcmaster.com/99461A966/) |
 | \*DIY MDF Plates   | M4x24 Self Tap    | 15  | [McMaster-Carr](https://www.mcmaster.com/99461A972/) |
-|                    | M5x8 SHC           | 112 | [McMaster-Carr](https://www.mcmaster.com/91290A222/) |
-|                    | M5x16 SHC          | 35  | [McMaster-Carr](https://www.mcmaster.com/91290A232/) |
+|                    | M5x8 SHC           | 131 | [McMaster-Carr](https://www.mcmaster.com/91290A222/) |
+|                    | M5x16 SHC          | 22  | [McMaster-Carr](https://www.mcmaster.com/91290A232/) |
 |                    | M8x50 rod (or set screw)| 1   | [McMaster-Carr](https://www.mcmaster.com/92015A151/) |
-|                    | M3 Nut            | 4   | [Amazon](https://amzn.to/3PisOlx), [McMaster-Carr](https://www.mcmaster.com/90592A085/) |
+|                    | M3 Nut            | 6   | [Amazon](https://amzn.to/3PisOlx), [McMaster-Carr](https://www.mcmaster.com/90592A085/) |
 |                    | M4 Nut            | 12  | [Amazon](https://amzn.to/3FApYUP), [McMaster-Carr](https://www.mcmaster.com/90592A090/) |
-|                    | M3 Washer         | 10  | [Amazon](https://amzn.to/3FePfU3), [McMaster-Carr](https://www.mcmaster.com/93475A210/) |
+|                    | M3 Washer         | 8  | [Amazon](https://amzn.to/3FePfU3), [McMaster-Carr](https://www.mcmaster.com/93475A210/) |
 |                    | M4 Washer         | 4   | [Amazon](https://amzn.to/3HwZ4iS), [McMaster-Carr](https://www.mcmaster.com/93475A230/) |
 |                    | M5 Washer         | 13  | [Amazon](https://amzn.to/3h75RW4), [McMaster-Carr](https://www.mcmaster.com/93475A240/) |
 | \*Ball Screw build | M4x16 SHC          | 4   | [McMaster-Carr](https://www.mcmaster.com/91290A154/) |
 | \*Ball Screw build | M5x35 SHC          | 4   | [McMaster-Carr](https://www.mcmaster.com/91290A256/) |
-| \*Ball Screw build | M5x30 SHC          | 4   | [McMaster-Carr](https://www.mcmaster.com/91290A254/) |
-| \*Ball Screw build | M5 Nut            | 8   | [Amazon](https://amzn.to/3uAxBFu), [McMaster-Carr](https://www.mcmaster.com/90592A095/) |
+| \*Blind Joint      | M6x20 SHC           | 32  |  |
 |||||
 | *_Motion_* |
 |                    | Nema 17 *0.9deg* (Bigger is better)| 1   | [Amazon](https://amzn.to/3JTS9Ok) | [Spool3D](https://spool3d.ca/nema17-0-9-degree-stepper-motor-60mm/)
