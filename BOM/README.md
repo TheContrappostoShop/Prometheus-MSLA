@@ -27,7 +27,7 @@
 |                    | M5 Washer         | 13  | [Amazon](https://amzn.to/3h75RW4), [McMaster-Carr](https://www.mcmaster.com/93475A240/) |
 | \*Ball Screw build | M4x16 SHC          | 4   | [McMaster-Carr](https://www.mcmaster.com/91290A154/) |
 | \*Ball Screw build | M5x35 SHC          | 4   | [McMaster-Carr](https://www.mcmaster.com/91290A256/) |
-| \*Blind Joint      | M6x20 BHC           | 32  |  |
+| \*Blind Joint      | M6x12 BHC           | 32  |  |
 |||||
 | *_Motion_* |
 |                    | Nema 17 *0.9deg* (Bigger is better)| 1   | [Amazon](https://amzn.to/3JTS9Ok) | [Spool3D](https://spool3d.ca/nema17-0-9-degree-stepper-motor-60mm/)
