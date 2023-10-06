@@ -50,8 +50,6 @@
 |             | Prometheus Control Board  | 1      | [Contrapposto Shop](https://contrapposto.shop/products/the-prometheus-msla-motherboard-apollo)|
 |             | Prometheus LED array      | 1 | [Contrapposto Shop](https://contrapposto.shop/products/led-array-330w-405nm-for-13-6-inch-display)|
 | \*Generic LED Alternative| LED array alternative     | 1 | [Aliexpress](https://www.aliexpress.com/item/1005004088672207.html)|
-|\*No Pi4 Alternative Controller| ChituSystems Board        | 1 | [Aliexpress](https://www.aliexpress.com/item/1005003612424196.html) |
-|\*No Pi4 Alternative Controller| ChituSystems Touch Screen | 1 | [Aliexpress](https://www.aliexpress.com/item/1005001862865136.html)|
 |||||
 | *_Frame_* |
 |                              | COMPLETE FRAME KIT (Blind joint)| 1  | [DLLPDF](https://www.dllpdf.com/prometheus-msla-structural-kit) |
@@ -68,7 +66,7 @@
 |||||
 | *_Misc_* |
 |                        | Neodimium Magnet 18x3mm     | 2 | [Amazon](https://amzn.to/3aZIzxF)|
-| \*Can be approximative | Spring 10.5mm Lg / 7.1mm OD | 1 ||
+| \*Can be approximative | Spring 10.5mm Lg / 7.1mm OD | 6 ||
 |                        | BallDetent M8x12            | 2 | [Amazon](https://amzn.to/3MggyzN)|
 |                        | 6mm Glass 302mm x 176.6mm   | 1 ||
 |                        | Ferrule Kit                 | 1 | [Amazon](https://amzn.to/3GTaqvl)|
