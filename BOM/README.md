@@ -1,13 +1,13 @@
 # Bill Of Materials
-> Note: Amazon listings on this page are affiliate links, to help support the project
+> Note: Some listings on this page are affiliate links, to help support the project
 
 | Category  | Description   | Quantity  | Link  |
 |-----------|---------------|-----------|-------|
 | *_Fasteners_*          |                   |     |       |
-|                    | M3 T-Nut          | 18  | [Amazon](https://amzn.to/3jPTPxT), [Aliexpress](https://s.click.aliexpress.com/e/_DBXx7kr) |
-|                    | M5 T-Nut          | 137 | [Amazon](https://amzn.to/3voWRi8), [Aliexpress](https://s.click.aliexpress.com/e/_DBXx7kr)|
-|                    | M3 Insert         | 46  | [Amazon](https://amzn.to/381tYR5), [Aliexpress](https://s.click.aliexpress.com/e/_DcgRRhD), [McMaster-Carr](https://www.mcmaster.com/94459A140/) |
-|                    | M4 Insert         | 5   | [Amazon](https://amzn.to/3vuExnA), [McMaster-Carr](https://www.mcmaster.com/94459A150/) |
+|                    | M3 T-Nut          | 18  | [Aliexpress](https://s.click.aliexpress.com/e/_DBXx7kr), [Amazon](https://amzn.to/3jPTPxT) |
+|                    | M5 T-Nut          | 137 | [Aliexpress](https://s.click.aliexpress.com/e/_DBXx7kr), [Amazon](https://amzn.to/3voWRi8) |
+|                    | M3 Insert         | 46  | [Aliexpress](https://s.click.aliexpress.com/e/_DcgRRhD), [Amazon](https://amzn.to/381tYR5), [McMaster-Carr](https://www.mcmaster.com/94459A140/) |
+|                    | M4 Insert         | 5   | [Aliexpress](https://s.click.aliexpress.com/e/_DcgRRhD), [Amazon](https://amzn.to/3vuExnA), [McMaster-Carr](https://www.mcmaster.com/94459A150/) |
 |                    | M3x8 SHC           | 38  | [Aliexpress](https://s.click.aliexpress.com/e/_DlgyRsJ), [McMaster-Carr](https://www.mcmaster.com/91290A113/) |
 |                    | M3x10 SHC          | 5   | [Aliexpress](https://s.click.aliexpress.com/e/_DlgyRsJ), [McMaster-Carr](https://www.mcmaster.com/91290A115/) |
 |                    | M3x18 SHC          | 8  | [Aliexpress](https://s.click.aliexpress.com/e/_DlgyRsJ), [McMaster-Carr](https://www.mcmaster.com/91290A121/) |
@@ -17,16 +17,16 @@
 |                    | M4x10 SHC          | 13  | [Aliexpress](https://s.click.aliexpress.com/e/_DlgyRsJ),[McMaster-Carr](https://www.mcmaster.com/91290A144/) |
 | \*DIY MDF Plates   | M4x12 Self Tap    | 30  | [McMaster-Carr](https://www.mcmaster.com/99461A966/) |
 | \*DIY MDF Plates   | M4x24 Self Tap    | 15  | [McMaster-Carr](https://www.mcmaster.com/99461A972/) |
-|                    | M5x8 SHC           | 131 | [Aliexpress](https://s.click.aliexpress.com/e/_DlgyRsJ),[McMaster-Carr](https://www.mcmaster.com/91290A222/) |
-|                    | M5x16 SHC          | 22  | [Aliexpress](https://s.click.aliexpress.com/e/_DlgyRsJ),[McMaster-Carr](https://www.mcmaster.com/91290A232/) |
-|                    | M8x50 rod (or set screw)| 1   | [Aliexpress](https://s.click.aliexpress.com/e/_Dd8sriF),[McMaster-Carr](https://www.mcmaster.com/92015A151/) |
-|                    | M3 Nut            | 6   | [Aliexpress](https://s.click.aliexpress.com/e/_DdFF1gf),[Amazon](https://amzn.to/3PisOlx), [McMaster-Carr](https://www.mcmaster.com/90592A085/) |
-|                    | M4 Nut            | 12  | [Aliexpress](https://s.click.aliexpress.com/e/_DdFF1gf),[Amazon](https://amzn.to/3FApYUP), [McMaster-Carr](https://www.mcmaster.com/90592A090/) |
-|                    | M3 Washer         | 8  | [Aliexpress](https://s.click.aliexpress.com/e/_DDZk2np),[Amazon](https://amzn.to/3FePfU3), [McMaster-Carr](https://www.mcmaster.com/93475A210/) |
-|                    | M4 Washer         | 4   | [Aliexpress](https://s.click.aliexpress.com/e/_DDZk2np),[Amazon](https://amzn.to/3HwZ4iS), [McMaster-Carr](https://www.mcmaster.com/93475A230/) |
-|                    | M5 Washer         | 13  | [Aliexpress](https://s.click.aliexpress.com/e/_DDZk2np),[Amazon](https://amzn.to/3h75RW4), [McMaster-Carr](https://www.mcmaster.com/93475A240/) |
-| \*Ball Screw build | M4x16 SHC          | 4   | [Aliexpress](https://s.click.aliexpress.com/e/_DlgyRsJ),[McMaster-Carr](https://www.mcmaster.com/91290A154/) |
-| \*Ball Screw build | M5x35 SHC          | 4   | [Aliexpress](https://s.click.aliexpress.com/e/_DlgyRsJ),[McMaster-Carr](https://www.mcmaster.com/91290A256/) |
+|                    | M5x8 SHC           | 131 | [Aliexpress](https://s.click.aliexpress.com/e/_DlgyRsJ), [McMaster-Carr](https://www.mcmaster.com/91290A222/) |
+|                    | M5x16 SHC          | 22  | [Aliexpress](https://s.click.aliexpress.com/e/_DlgyRsJ), [McMaster-Carr](https://www.mcmaster.com/91290A232/) |
+|                    | M8x50 rod (or set screw)| 1   | [Aliexpress](https://s.click.aliexpress.com/e/_Dd8sriF), [McMaster-Carr](https://www.mcmaster.com/92015A151/) |
+|                    | M3 Nut            | 6   | [Aliexpress](https://s.click.aliexpress.com/e/_DdFF1gf), [Amazon](https://amzn.to/3PisOlx), [McMaster-Carr](https://www.mcmaster.com/90592A085/) |
+|                    | M4 Nut            | 12  | [Aliexpress](https://s.click.aliexpress.com/e/_DdFF1gf), [Amazon](https://amzn.to/3FApYUP), [McMaster-Carr](https://www.mcmaster.com/90592A090/) |
+|                    | M3 Washer         | 8  | [Aliexpress](https://s.click.aliexpress.com/e/_DDZk2np), [Amazon](https://amzn.to/3FePfU3), [McMaster-Carr](https://www.mcmaster.com/93475A210/) |
+|                    | M4 Washer         | 4   | [Aliexpress](https://s.click.aliexpress.com/e/_DDZk2np), [Amazon](https://amzn.to/3HwZ4iS), [McMaster-Carr](https://www.mcmaster.com/93475A230/) |
+|                    | M5 Washer         | 13  | [Aliexpress](https://s.click.aliexpress.com/e/_DDZk2np), [Amazon](https://amzn.to/3h75RW4), [McMaster-Carr](https://www.mcmaster.com/93475A240/) |
+| \*Ball Screw build | M4x16 SHC          | 4   | [Aliexpress](https://s.click.aliexpress.com/e/_DlgyRsJ), [McMaster-Carr](https://www.mcmaster.com/91290A154/) |
+| \*Ball Screw build | M5x35 SHC          | 4   | [Aliexpress](https://s.click.aliexpress.com/e/_DlgyRsJ), [McMaster-Carr](https://www.mcmaster.com/91290A256/) |
 | \*Blind Joint      | M5 OR M6x12 BHC           | 32  |  [Aliexpress](https://s.click.aliexpress.com/e/_DkBwHbz)  |
 |||||
 | *_Motion_* |
@@ -54,12 +54,12 @@
 |||||
 | *_Frame_* |
 |                              | COMPLETE FRAME KIT (Blind joint)| 1  | [DLLPDF](https://www.dllpdf.com/prometheus-msla-structural-kit) |
-|                              | 2020 Aluminum Extrusion - 490mm | 2  | [Aliexpress](https://s.click.aliexpress.com/e/_DCueqH9),[Amazon](https://amzn.to/3xlxGzp) |
-|                              | 2020 Aluminum Extrusion - 450mm | 2  | [Aliexpress](https://s.click.aliexpress.com/e/_DCueqH9),[Amazon](https://amzn.to/3xhM6Ax) |
-|                              | 2020 Aluminum Extrusion - 412mm | 6  | [Aliexpress](https://s.click.aliexpress.com/e/_DCueqH9),[Amazon](https://amzn.to/3xhM6Ax) |
-|                              | 2020 Aluminum Extrusion - 410mm | 2  | [Aliexpress](https://s.click.aliexpress.com/e/_DCueqH9),[Amazon](https://amzn.to/3KoJ3KC) |
-|                              | 2020 Aluminum Extrusion - 324mm | 6  | [Aliexpress](https://s.click.aliexpress.com/e/_DCueqH9),[Amazon](https://amzn.to/3LNUVpG) |
-|                              | 2020 Aluminum Extrusion - 705mm | 4  | [Aliexpress](https://s.click.aliexpress.com/e/_DCueqH9),[Amazon](https://amzn.to/3jmZhIf) |
+|                              | 2020 Aluminum Extrusion - 490mm | 2  | [Aliexpress](https://s.click.aliexpress.com/e/_DCueqH9), [Amazon](https://amzn.to/3xlxGzp) |
+|                              | 2020 Aluminum Extrusion - 450mm | 2  | [Aliexpress](https://s.click.aliexpress.com/e/_DCueqH9), [Amazon](https://amzn.to/3xhM6Ax) |
+|                              | 2020 Aluminum Extrusion - 412mm | 6  | [Aliexpress](https://s.click.aliexpress.com/e/_DCueqH9), [Amazon](https://amzn.to/3xhM6Ax) |
+|                              | 2020 Aluminum Extrusion - 410mm | 2  | [Aliexpress](https://s.click.aliexpress.com/e/_DCueqH9), [Amazon](https://amzn.to/3KoJ3KC) |
+|                              | 2020 Aluminum Extrusion - 324mm | 6  | [Aliexpress](https://s.click.aliexpress.com/e/_DCueqH9), [Amazon](https://amzn.to/3LNUVpG) |
+|                              | 2020 Aluminum Extrusion - 705mm | 4  | [Aliexpress](https://s.click.aliexpress.com/e/_DCueqH9), [Amazon](https://amzn.to/3jmZhIf) |
 |                              | Hinges                | 2  | [Amazon](https://amzn.to/3jthnZ2) |
 | \*Can replace by blind joint | Hidden connector      | 36 | [Amazon](https://amzn.to/3Mbfa15) |
 | \*Can be hand made or locally source  | Base plate            | 1  | [DLLPDF](https://www.dllpdf.com/prometheus-msla-base-plate) |
