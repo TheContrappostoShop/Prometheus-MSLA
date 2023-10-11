@@ -39,7 +39,7 @@
 | \*Ball Screw Build 500 | Ball Screw 500mm 1204     | 1 | [Amazon](https://amzn.to/41ezOoz)|
 ||||
 | *_Electronics_* |
-|             | LCD 7K 13.6inch mono      | 1      | [Aliexpress](https://www.aliexpress.com/item/1005003829110324.html)|
+|             | LCD 7K 13.6inch + Diver   | 1      | [Aliexpress](https://s.click.aliexpress.com/e/_DFFA84L)|
 |             | Inductive Probe 5v        | 1      | [Amazon](https://amzn.to/380BJGW)|
 |             | Power Supply 24v          | 1      | [Amazon](https://amzn.to/3EsALiw)|
 |             | IEC Socket                | 1      | [Amazon](https://amzn.to/3JSTPb1)|
@@ -49,7 +49,8 @@
 |             | Raspberry pi 4B           | 1      | [RPi Locator](https://rpilocator.com/?cat=PI4)|
 |             | Prometheus Control Board  | 1      | [Contrapposto Shop](https://contrapposto.shop/products/the-prometheus-msla-motherboard-apollo)|
 |             | Prometheus LED array      | 1 | [Contrapposto Shop](https://contrapposto.shop/products/led-array-330w-405nm-for-13-6-inch-display)|
-| \*Generic LED Alternative| LED array alternative     | 1 | [Aliexpress](https://www.aliexpress.com/item/1005004088672207.html)|
+| \*Generic LED Alternative| LED array alternative     | 1 | [Aliexpress](https://s.click.aliexpress.com/e/_DmQAAPt)|
+|             | LCD REPLACEMENT           | 1      | [Aliexpress](https://s.click.aliexpress.com/e/_DlRyj6L)|
 |||||
 | *_Frame_* |
 |                              | COMPLETE FRAME KIT (Blind joint)| 1  | [DLLPDF](https://www.dllpdf.com/prometheus-msla-structural-kit) |
