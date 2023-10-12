@@ -6,8 +6,8 @@
 | *_Fasteners_*          |                   |     |       |
 |                    | M3 T-Nut          | 18  | [Aliexpress](https://s.click.aliexpress.com/e/_DBXx7kr), [Amazon](https://amzn.to/3jPTPxT) |
 |                    | M5 T-Nut          | 137 | [Aliexpress](https://s.click.aliexpress.com/e/_DBXx7kr), [Amazon](https://amzn.to/3voWRi8) |
-|                    | M3 Insert         | 46  | [Aliexpress](https://s.click.aliexpress.com/e/_DcgRRhD), [Amazon](https://amzn.to/381tYR5), [McMaster-Carr](https://www.mcmaster.com/94459A140/) |
-|                    | M4 Insert         | 5   | [Aliexpress](https://s.click.aliexpress.com/e/_DcgRRhD), [Amazon](https://amzn.to/3vuExnA), [McMaster-Carr](https://www.mcmaster.com/94459A150/) |
+|                    | M3 Insert (L6mm)  | 46  | [Aliexpress](https://s.click.aliexpress.com/e/_DcgRRhD), [Amazon](https://amzn.to/381tYR5), [McMaster-Carr](https://www.mcmaster.com/94459A140/) |
+|                    | M4 Insert (L6mm)  | 5   | [Aliexpress](https://s.click.aliexpress.com/e/_DcgRRhD), [Amazon](https://amzn.to/3vuExnA), [McMaster-Carr](https://www.mcmaster.com/94459A150/) |
 |                    | M3x8 SHC           | 38  | [Aliexpress](https://s.click.aliexpress.com/e/_DlgyRsJ), [McMaster-Carr](https://www.mcmaster.com/91290A113/) |
 |                    | M3x10 SHC          | 5   | [Aliexpress](https://s.click.aliexpress.com/e/_DlgyRsJ), [McMaster-Carr](https://www.mcmaster.com/91290A115/) |
 |                    | M3x18 SHC          | 8  | [Aliexpress](https://s.click.aliexpress.com/e/_DlgyRsJ), [McMaster-Carr](https://www.mcmaster.com/91290A121/) |
