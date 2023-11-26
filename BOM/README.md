@@ -9,15 +9,13 @@
 |                    | M3 Insert (L6mm)  | 46  | [Aliexpress](https://s.click.aliexpress.com/e/_DcgRRhD), [Amazon](https://amzn.to/381tYR5), [McMaster-Carr](https://www.mcmaster.com/94459A140/) |
 |                    | M4 Insert (L6mm)  | 5   | [Aliexpress](https://s.click.aliexpress.com/e/_DcgRRhD), [Amazon](https://amzn.to/3vuExnA), [McMaster-Carr](https://www.mcmaster.com/94459A150/) |
 |                    | M3x8 SHC           | 38  | [Aliexpress](https://s.click.aliexpress.com/e/_DlgyRsJ), [McMaster-Carr](https://www.mcmaster.com/91290A113/) |
-|                    | M3x10 SHC          | 5   | [Aliexpress](https://s.click.aliexpress.com/e/_DlgyRsJ), [McMaster-Carr](https://www.mcmaster.com/91290A115/) |
+|                    | M3x10 SHC          | 18   | [Aliexpress](https://s.click.aliexpress.com/e/_DlgyRsJ), [McMaster-Carr](https://www.mcmaster.com/91290A115/) |
 |                    | M3x18 SHC          | 8  | [Aliexpress](https://s.click.aliexpress.com/e/_DlgyRsJ), [McMaster-Carr](https://www.mcmaster.com/91290A121/) |
 |                    | M3x20 Countersunk  | 4  | [Aliexpress](https://s.click.aliexpress.com/e/_Deg3Y3h)  |
 |                    | M3x25 SHC           | 14  | [Aliexpress](https://s.click.aliexpress.com/e/_DlgyRsJ) |
 |                    | M3x10 Countersunk | 44  | [Aliexpress](https://s.click.aliexpress.com/e/_Deg3Y3h),[McMaster-Carr](https://www.mcmaster.com/91294A130/) |
 |                    | M4x10 SHC          | 13  | [Aliexpress](https://s.click.aliexpress.com/e/_DlgyRsJ),[McMaster-Carr](https://www.mcmaster.com/91290A144/) |
-| \*DIY MDF Plates   | M4x12 Self Tap    | 30  | [McMaster-Carr](https://www.mcmaster.com/99461A966/) |
-| \*DIY MDF Plates   | M4x24 Self Tap    | 15  | [McMaster-Carr](https://www.mcmaster.com/99461A972/) |
-|                    | M5x8 SHC           | 131 | [Aliexpress](https://s.click.aliexpress.com/e/_DlgyRsJ), [McMaster-Carr](https://www.mcmaster.com/91290A222/) |
+|                    | M5x8 SHC           | 135 | [Aliexpress](https://s.click.aliexpress.com/e/_DlgyRsJ), [McMaster-Carr](https://www.mcmaster.com/91290A222/) |
 |                    | M5x16 SHC          | 22  | [Aliexpress](https://s.click.aliexpress.com/e/_DlgyRsJ), [McMaster-Carr](https://www.mcmaster.com/91290A232/) |
 |                    | M8x50 rod (or set screw)| 1   | [Aliexpress](https://s.click.aliexpress.com/e/_Dd8sriF), [McMaster-Carr](https://www.mcmaster.com/92015A151/) |
 |                    | M3 Nut            | 6   | [Aliexpress](https://s.click.aliexpress.com/e/_DdFF1gf), [Amazon](https://amzn.to/3PisOlx), [McMaster-Carr](https://www.mcmaster.com/90592A085/) |
