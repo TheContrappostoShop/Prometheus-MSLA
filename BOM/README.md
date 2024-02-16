@@ -37,7 +37,7 @@
 | \*Ball Screw Build 500 *ask Ali seller for coupler | Ball Screw 500mm 1204     | 1 | [Aliexpress](https://s.click.aliexpress.com/e/_DCBP8oT), [Amazon](https://amzn.to/41ezOoz)|
 ||||
 | *_Electronics_* |
-|             | LCD 7K 13.6inch + Diver   | 1      | [Aliexpress](https://s.click.aliexpress.com/e/_DFFA84L)|
+|             | LCD 7K 13.6inch + Diver   | 1      | [Aliexpress](https://s.click.aliexpress.com/e/_DD14yBX)|
 |             | Inductive Probe 5v M12 NPN| 1      | [Aliexpress](https://s.click.aliexpress.com/e/_DcAIFCR), [Amazon](https://amzn.to/380BJGW)|
 |             | Power Supply 24v          | 1      | [Aliexpress](https://s.click.aliexpress.com/e/_DdjQPYR), [Amazon](https://amzn.to/3EsALiw)|
 |             | IEC Socket                | 1      | [Aliexpress](https://s.click.aliexpress.com/e/_DdLPQwn), [Amazon](https://amzn.to/3JSTPb1)|
