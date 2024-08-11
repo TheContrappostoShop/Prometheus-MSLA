@@ -38,8 +38,8 @@
 ||||
 | *_Electronics_* |
 |             | LCD 7K 13.6inch           | 1      | [Aliexpress](https://s.click.aliexpress.com/e/_Dex3wQn)|
-|             | LCD HDMI Driver           | 1      | [Aliexpress](https://s.click.aliexpress.com/e/_DBUDyVH)|
-|             | LCD HDMI Driver *ALTERNATIVE*          | 1      | [Aliexpress](https://s.click.aliexpress.com/e/_DBim8uT)|
+|             | LCD HDMI Driver           | 1      | [Aliexpress](https://s.click.aliexpress.com/e/_DeM0m83)|
+|             | LCD + HDMI Driver *ALTERNATIVE* (Ask seller for driver) | 1      | [Alibaba](https://www.alibaba.com/product-detail/13-6-inch-7K-6480-3600_1600919542980.html)|
 |             | Inductive Probe 5v M12 NPN| 1      | [Aliexpress](https://s.click.aliexpress.com/e/_DcAIFCR), [Amazon](https://amzn.to/380BJGW)|
 |             | Power Supply 24v          | 1      | [Aliexpress](https://s.click.aliexpress.com/e/_DdjQPYR), [Amazon](https://amzn.to/3EsALiw)|
 |             | IEC Socket                | 1      | [Aliexpress](https://s.click.aliexpress.com/e/_DdLPQwn), [Amazon](https://amzn.to/3JSTPb1)|
@@ -48,8 +48,8 @@
 |             | DSI Flex Cable            | 1      | [Amazon](https://amzn.to/3xArXWf)|
 |             | Raspberry pi 4B           | 1      | [RPi Locator](https://rpilocator.com/?cat=PI4)|
 |             | Prometheus Control Board  | 1      | [Contrapposto Shop](https://contrapposto.shop/products/the-prometheus-msla-motherboard-apollo)|
-|             | Prometheus LED array      | 1 | [Contrapposto Shop](https://contrapposto.shop/products/led-array-330w-405nm-for-13-6-inch-display)|
-| \*Generic LED Alternative| LED array alternative     | 1 | [Aliexpress](https://s.click.aliexpress.com/e/_DmQAAPt)|
+|             | LED Array                 | 1      | [Aliexpress](https://s.click.aliexpress.com/e/_DmQAAPt)|
+|             | LED COB Fresnel (Alternative) | 1      | [Aliexpress](https://www.aliexpress.com/w/wholesale-sumaopai.html?spm=a2g0o.productlist.search.0)|
 |||||
 | *_Frame_* |
 |                              | COMPLETE FRAME KIT (Blind joint)| 1  | [DLLPDF](https://www.dllpdf.com/prometheus-msla-structural-kit) |
