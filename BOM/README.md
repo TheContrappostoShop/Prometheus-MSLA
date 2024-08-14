@@ -65,7 +65,7 @@
 | \*Can be hand made or locally sourced | Middle LCD plate      | 1  | [DLLPDF](https://www.dllpdf.com/prometheus-msla-mid-base) |
 |||||
 | *_Misc_* |
-|                        | Neodimium Magnet 18x3mm     | 2 | [Aliexpress](https://s.click.aliexpress.com/e/_Ded8hO3), [Amazon](https://amzn.to/3aZIzxF)|
+|                        | Neodimium Magnet 12x3mm     | 2 | [Aliexpress](https://s.click.aliexpress.com/e/_DBFfQbD), [Amazon](https://amzn.to/3WKNjeT)|
 | \*Can be approximative | Spring 10.5mm Lg / 7.1mm OD | 6 ||
 |                        | BallDetent M8x12            | 2 | [Aliexpress](https://s.click.aliexpress.com/e/_Ddmoasj), [Amazon](https://amzn.to/3MggyzN)|
 |                        | 6mm Glass 302mm x 176.6mm   | 1 ||
