@@ -37,9 +37,9 @@
 | \*Ball Screw Build 500 *ask Ali seller for coupler | Ball Screw 500mm 1204     | 1 | [Aliexpress](https://s.click.aliexpress.com/e/_DCBP8oT), [Amazon](https://amzn.to/41ezOoz)|
 ||||
 | *_Electronics_* |
-|             | LCD 7K 13.6inch           | 1      | [Aliexpress](https://s.click.aliexpress.com/e/_Dex3wQn)|
-|             | LCD HDMI Driver           | 1      | [Aliexpress](https://s.click.aliexpress.com/e/_DeM0m83)|
-|             | LCD + HDMI Driver *ALTERNATIVE* (Ask seller for driver) | 1      | [Alibaba](https://www.alibaba.com/product-detail/13-6-inch-7K-6480-3600_1600919542980.html)|
+|*READ NOTES!*             | LCD 7K 13.6inch           | 1      | [Aliexpress](https://s.click.aliexpress.com/e/_Dex3wQn)|
+|*READ NOTES!*             | LCD HDMI Driver           | 1      | [Aliexpress](https://s.click.aliexpress.com/e/_DeM0m83)|
+|*READ NOTES!*             | LCD + HDMI Driver *ALTERNATIVE* (Ask seller for driver) | 1      | [Alibaba](https://www.alibaba.com/product-detail/13-6-inch-7K-6480-3600_1600919542980.html)|
 |             | Inductive Probe 5v M12 NPN| 1      | [Aliexpress](https://s.click.aliexpress.com/e/_DcAIFCR), [Amazon](https://amzn.to/380BJGW)|
 |             | Power Supply 24v          | 1      | [Aliexpress](https://s.click.aliexpress.com/e/_DdjQPYR), [Amazon](https://amzn.to/3EsALiw)|
 |             | IEC Socket                | 1      | [Aliexpress](https://s.click.aliexpress.com/e/_DdLPQwn), [Amazon](https://amzn.to/3JSTPb1)|
@@ -106,6 +106,8 @@
 |                  | Vat Latch Right            | 1 ||
 |                  | Vat Retainer Ring          | 1 ||
 |                  | Vat Handle                 | 2 ||
+
+** PROBLEM WITH LCD MANUFACTURER ! We have encounter a problem with the suggested LCD and driver part. For now, only one member of our team have this problem. We are trying to have answers from the manufacturer because it seems only the "newer" LCDs have issues. We are currently looking for an upgrade version. Buy the one listed at your own risk. More details on Discord. 
 
 ** We recommend printing the vat in PLA, PETG or PC! Other materials may react with the chemicals in the resin
 
