@@ -47,7 +47,7 @@
 |             | DSI Touch Screen          | 1      | [Aliexpress](), [Amazon](https://amzn.to/3M15Rjr)|
 |             | DSI Flex Cable            | 1      | [Amazon](https://amzn.to/3xArXWf)|
 |             | Raspberry pi 4B           | 1      | [RPi Locator](https://rpilocator.com/?cat=PI4)|
-|             | Prometheus Control Board  | 1      | [Contrapposto Shop](https://contrapposto.shop)|
+|             | Prometheus Control Board  | 1      | [Contrapposto Shop](https://www.contrapposto.shop)|
 |             | LED Array                 | 1      | [Aliexpress](https://s.click.aliexpress.com/e/_DmQAAPt)|
 |             | LED COB Fresnel (Alternative) | 1      | [Aliexpress](https://www.aliexpress.com/w/wholesale-sumaopai.html?spm=a2g0o.productlist.search.0)|
 |||||
