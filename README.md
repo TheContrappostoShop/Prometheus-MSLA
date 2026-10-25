@@ -3,13 +3,12 @@
 </div>
 
 ![Prometheus MSLA Printer Render!](Images/Render/MainHeadRender.png "Open Source MSLA Printer Prometheus MSLA")
-[![Discord Link](https://discordapp.com/api/guilds/881628699500359731/widget.png?style=shield)](https://discord.gg/6pFDJ3GbKh)
 
-*DISCLAIMER ! THIS VERSION OF THE PROMETHEUS IS NOW NOT SUPPORTED DUE TO UNRELIABLE KEY COMPONENTS OF THE MACHINE SUCH AS THE LCD DUE TO DEFFECTIVE BATCHES FROM CHINESE MANUFACTURER. INSTEAD OF PATCHING THESE ISSUES, A NEW GENERATION OF PRINTER WILL BE CREATED.
+*DISCLAIMER ! THIS VERSION OF THE PROMETHEUS IS NOW NOT SUPPORTED DUE TO UNRELIABLE KEY COMPONENTS OF THE MACHINE SUCH AS THE LCD DUE TO DEFECTIVE BATCHES FROM CHINESE MANUFACTURER. INSTEAD OF PATCHING THESE ISSUES, A NEW GENERATION OF PRINTER HAS BEEN CREATED [HERE (WIP)](https://github.com/TheContrappostoShop/Prometheus-One)
 
 The First fully open source MSLA 3D printer. The Prometheus MSLA is a large format printer with build volume of 298mm x 164mm x 350mm with a 13.7inch 7K monochrome display ( one of the largest and high resolution on the market ).
 
-In greek mythology there is a legend of a Titan named Prometheus, he is known
+In Greek mythology there is a legend of a Titan named Prometheus, he is known
 for defying the gods by stealing fire and gifting it back to humanity.
 
 Not only did he give them fire, Prometheus also taught humans how to use fire,
@@ -44,13 +43,8 @@ software install.
 Finalized Build Guide Coming Soon!
 
 In the mean-time, check out our
-[Youtube Assembly Guide](https://www.youtube.com/watch?v=eP9PegG7pnA&list=PL1cx7A6ZVoZlWrnPsP4_g7WrTk8wNiGpT),
+[YouTube Assembly Guide](https://www.youtube.com/watch?v=eP9PegG7pnA&list=PL1cx7A6ZVoZlWrnPsP4_g7WrTk8wNiGpT),
 or join our Discord for advice and assistance!
-
-## Community
-If you want to share your experience or need more information, we are happy to
-welcome you to our [Discord Server](https://discord.gg/GFUn9gwRsj).
-
 
 ## Licensing
 
